@@ -12,8 +12,8 @@ public class TodoList {
 
 	public TodoList(long id, String item) {
 		super();
-		this.id = id;
-		this.item = item;
+		this.id=id;
+		this.item=item;
 	}
 	
 	public long getId() {
